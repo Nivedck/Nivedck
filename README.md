@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Nivedck
-- 👀 I’m interested in Website and web app development,game development
 - 🌱 I’m currently learning c++,python,java..etc
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- instagram-@_____nived______
 - 
 
