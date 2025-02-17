@@ -13,18 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nivedck&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedck&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nivedck&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nivedck&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivedck/Nivedck/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivedck/Nivedck/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Nivedck/Nivedck/output/github-snake.svg" />
-</picture>
