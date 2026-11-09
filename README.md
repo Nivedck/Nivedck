@@ -12,9 +12,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nived_ck/)
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nivedck&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nivedck&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedck&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-stats-extended.vercel.app/api?username=Nivedck&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://herokuapp.com)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=Nivedck&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 # 💻 Tech Stack
