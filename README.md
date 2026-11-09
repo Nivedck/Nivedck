@@ -1,5 +1,8 @@
 # About Me:
-<br>👋 Hi, I'm Nived C K !<br>Currently Studying Btech Information Technology<br>From: Kerala, India<br>Passion: Software Development , Android Development, Linux , Problem Solving<br>Skills: C++, C , Rust, HTML , CSS , python , DSA<br>Goals: Become a skilled Software Engineer
+👋 Hi, I'm Nived C K! <br>
+🎓 B.Tech Information Technology Student from Kerala, India.<br>
+🚀 Passionate about Software Development, Linux Ecosystems, and Algorithmic Problem Solving.<br>
+🛠️ Currently building system utilities exploring low-level desktop configurations and leaning web development.<br>
 
 
 ## 🌐 Socials:
